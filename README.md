@@ -15,8 +15,6 @@ Software Developer with experience in web development and mobile platforms, data
   <img src="https://profile-counter.glitch.me/stefanoaragoni/count.svg?"  />
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=stefanoaragoni&icon=0&color=0)](https://visitcount.itsvg.in)
-
 ---
 
 ## 🌐 Socials:
