@@ -9,7 +9,9 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=stefanoaragoni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=stefanoaragoni&countColor=%237B1E7A)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/stefanoaragoni/count.svg?"  />
+</div>
 
 ---
 
