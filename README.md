@@ -11,14 +11,13 @@ Software Developer with experience in web development and mobile platforms, data
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=stefanoaragoni&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/stefanoaragoni/count.svg?"  />
-</div>
-
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/stefanoaragoni) 
 
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/stefanoaragoni/count.svg?"  />
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
